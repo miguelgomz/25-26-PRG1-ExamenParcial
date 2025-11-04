@@ -2,13 +2,13 @@
 
 ||Qué|Cómo|
 |:-:|:-:|:-:|
-Exámenes personalizados generados a partir del código de cada estudiante extraído de sus PRs (excepto en los estudiantes que no han realizado ninguna entrega).|Elija y responda 5 de las preguntas que tiene disponibles.|Las respuestas y justificaciones deben estar **exquisitamente relacionadas** a lo debatido en clase y hacer uso del vocabulario y los términos y criterios aprendidos
+<sub>Exámenes generados a partir del código de cada estudiante, extraído de sus PRs excepto en los estudiantes que no han realizado ninguna entrega.|<sub>Elija y responda 5 de las preguntas que tiene disponibles.|<sub>Las respuestas y justificaciones deben estar **exquisitamente relacionadas** a lo debatido en clase y hacer uso del vocabulario y los términos y criterios aprendidos
 
 **Criterios de evaluación:**
 
-- Identificación correcta del error o escenario: 40%
-- Explicación del porqué es un error o justificación del escenario: 30%
-- Propuesta de corrección/mejora válida: 30%
+- Identificación **correcta** del error o escenario: 40%
+- **Adecuada** explicación del porqué es un error y/o justificación del escenario: 30%
+- Propuesta de corrección/mejora **válida**: 30%
 
 ## Exámenes
 
