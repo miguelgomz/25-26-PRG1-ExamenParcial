@@ -78,7 +78,7 @@ if (mantenimientoDia && planta == plantaMantenimiento) {
         }
     }
 }
-```
+``` p
 
 ¿Qué observas en este código?
 
